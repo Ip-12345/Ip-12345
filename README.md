@@ -4,17 +4,10 @@
   A curious explorer in AI/ML, CloudOps, and Blockchain. Currently pursuing B.Tech in Computer Science and Engineering at NIT Patna.
 </h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ip-12345&theme=gruvbox" alt="ip-12345" />
-  </a>
-</p>
-
-- 🤖 I'm passionate about **Artificial Intelligence**, **Machine Learning**, and building intelligent systems that learn and adapt.
-- 🌐 I'm actively exploring **Web3 & Blockchain** — fascinated by decentralization and smart contracts.
-- ☁️ Also diving into the world of **CloudOps/DevOps** — from CI/CD pipelines to container orchestration with Docker and Kubernetes.
-- 👩‍💻 I love solving **DSA problems** and participating in **competitive programming** contests.
-- 🧠 I’m always eager to learn new tools, technologies, and collaborate on **Open Source** projects.
+🤖 I'm deeply fascinated by the world of **Artificial Intelligence and Machine Learning** — building systems that can learn, reason, and improve excites me. Alongside AI, I’ve also been exploring the decentralized world of **Web3 and Blockchain**, intrigued by the possibilities of smart contracts and trustless systems.
+🌐 Recently, I've been venturing into **CloudOps and DevOps**, learning about containerization, deployment pipelines, and cloud-native tools; from CI/CD pipelines to container orchestration with Docker and Kubernetes.
+👩‍💻 I love solving **DSA problems** and participating in **competitive programming** contests.
+🧠 I’m always eager to learn new tools, technologies, and collaborate on **Open Source** projects.
 
 - 📫 Reach me at: **indupriya.bejugam@gmail.com**
 - 📂 All my projects: [github.com/Ip-12345](https://github.com/Ip-12345)
@@ -42,4 +35,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/indupriyab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indupriyab" height="30" width="40" /></a>
 <a href="https://kaggle.com/indupriyabejugam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="indupriyabejugam" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ip-12345&theme=gruvbox" alt="ip-12345" />
+  </a>
 </p>
