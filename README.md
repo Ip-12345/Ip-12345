@@ -1,16 +1,27 @@
-<h2>Hi 👋 I'm Indupriya Bejugam</h1>
+<h2 align="center">Hi 👋 I'm Indupriya Bejugam</h2>
 
 <h3 align="center">
-  🚀 About me (A curious explorer in AI/ML, CloudOps, and Blockchain. Currently pursuing B.Tech in Computer Science and Engineering at NIT Patna.)
-</h3
+🚀 About Me  
+A curious explorer in AI/ML, CloudOps, and Blockchain. Currently pursuing B.Tech in Computer Science and Engineering at NIT Patna.
+</h3>
+
+---
 
 - 🤖 I'm deeply fascinated by the world of **Artificial Intelligence and Machine Learning** — building systems that can learn, reason, and improve excites me. Alongside AI, I’ve also been exploring the decentralized world of **Web3 and Blockchain**, intrigued by the possibilities of smart contracts and trustless systems.
-- 🌐 Recently, I've been venturing into **CloudOps and DevOps**, learning about containerization, deployment pipelines, and cloud-native tools; from CI/CD pipelines to container orchestration with Docker and Kubernetes.
-- 👩‍💻 I love solving **DSA problems** and participating in **competitive programming** contests.
-- 🧠 I’m always eager to learn new tools, technologies, and collaborate on **Open Source** projects.
 
-- 📫 Reach me at: **indupriya.bejugam@gmail.com**
-- 📂 All my projects: [github.com/Ip-12345](https://github.com/Ip-12345)
+- 🌐 Recently, I've been venturing into **CloudOps and DevOps**, learning about containerization, deployment pipelines, and cloud-native tools — from CI/CD workflows to orchestration with Docker and Kubernetes.
+
+- 👩‍💻 I enjoy solving **DSA problems** and participating in **competitive programming** contests.
+
+- 🧠 Constantly curious, I seek out new tools, technologies, and opportunities to contribute to impactful **Open Source** projects.
+
+- 🌿 **More Than Code**: Beyond tech, I find balance through movement, creativity, and focus. From football and skating to art, games, and cube solving, I enjoy challenges that engage both mind and body. Meditation is a quiet constant — helping me stay centered, clear, and grounded.
+
+---
+
+- 📫 Reach me at: **indupriya.bejugam@gmail.com**  
+- 📂 Explore my work: [github.com/Ip-12345](https://github.com/Ip-12345)
+- 🌐 Visit my portfolio: [indupriya.dev](https://indupriya.dev)
 
 #### Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
