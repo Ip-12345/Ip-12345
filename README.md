@@ -1,21 +1,23 @@
-<h1 align="center">Hi👋 I'm Indupriya Bejugam</h1>
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FobTEwODNia202c3JjeWUybDg1dnd1OTBpeHJ4YnVoN2dicnFldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"/>
-</div>
+<h1>Hi 👋 I'm Indupriya Bejugam</h1>
 
-<h3 align="center">Currently pursuing B.Tech in Computer Science and Engineering at Nit Patna. My interests range from full-stack development, distributed systems, big data to AI and am always eager to explore new technological horizons.</h3>
+<h3 align="center">
+  A curious explorer in AI/ML, CloudOps, and Blockchain. Currently pursuing B.Tech in Computer Science and Engineering at NIT Patna.
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ip-12345" alt="ip-12345" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ip-12345&theme=gruvbox" alt="ip-12345" />
+  </a>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ip-12345](https://github.com/Ip-12345)
+- 🤖 I'm passionate about **Artificial Intelligence**, **Machine Learning**, and building intelligent systems that learn and adapt.
+- 🌐 I'm actively exploring **Web3 & Blockchain** — fascinated by decentralization and smart contracts.
+- ☁️ Also diving into the world of **CloudOps/DevOps** — from CI/CD pipelines to container orchestration with Docker and Kubernetes.
+- 👩‍💻 I love solving **DSA problems** and participating in **competitive programming** contests.
+- 🧠 I’m always eager to learn new tools, technologies, and collaborate on **Open Source** projects.
 
-- 💬 Know more about **Full-stack development, AI, machine learning, and distributed systems. My latest projects and hackathon experiences. Solving algorithmic challenges, data structures, or anything related to tech!**
-
-- 📫 How to reach me **indupriya.bejugam@gmail.com**
-
-- ⚡ Fun fact **Love "temporary fix" that runs in production for decades. 💀**
-
-<h3 align="left">🛠️ Skills :</h3>
+- 📫 Reach me at: **indupriya.bejugam@gmail.com**
+- 📂 All my projects: [github.com/Ip-12345](https://github.com/Ip-12345)
 
 #### Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
