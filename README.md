@@ -1,9 +1,10 @@
-<h2 align="center">Hi 👋 I'm Indupriya Bejugam</h2>
+<h2 align="left">Hi 👋 I'm Indupriya Bejugam</h2>
 
-<h3 align="center">
-🚀 About Me  
+<h3 align="left">🚀 About Me</h3>
+
+<p align="left">
 A curious explorer in AI/ML, CloudOps, and Blockchain. Currently pursuing B.Tech in Computer Science and Engineering at NIT Patna.
-</h3>
+</p>
 
 ---
 
@@ -48,7 +49,7 @@ A curious explorer in AI/ML, CloudOps, and Blockchain. Currently pursuing B.Tech
 <a href="https://kaggle.com/indupriyabejugam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="indupriyabejugam" height="30" width="40" /></a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ip-12345&theme=gruvbox" alt="ip-12345" />
   </a>
