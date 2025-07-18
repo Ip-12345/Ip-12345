@@ -1,13 +1,13 @@
-<h1>Hi 👋 I'm Indupriya Bejugam</h1>
+<h2>Hi 👋 I'm Indupriya Bejugam</h1>
 
 <h3 align="center">
-  A curious explorer in AI/ML, CloudOps, and Blockchain. Currently pursuing B.Tech in Computer Science and Engineering at NIT Patna.
-</h3>
+  🚀 About me (A curious explorer in AI/ML, CloudOps, and Blockchain. Currently pursuing B.Tech in Computer Science and Engineering at NIT Patna.)
+</h3
 
-🤖 I'm deeply fascinated by the world of **Artificial Intelligence and Machine Learning** — building systems that can learn, reason, and improve excites me. Alongside AI, I’ve also been exploring the decentralized world of **Web3 and Blockchain**, intrigued by the possibilities of smart contracts and trustless systems.
-🌐 Recently, I've been venturing into **CloudOps and DevOps**, learning about containerization, deployment pipelines, and cloud-native tools; from CI/CD pipelines to container orchestration with Docker and Kubernetes.
-👩‍💻 I love solving **DSA problems** and participating in **competitive programming** contests.
-🧠 I’m always eager to learn new tools, technologies, and collaborate on **Open Source** projects.
+- 🤖 I'm deeply fascinated by the world of **Artificial Intelligence and Machine Learning** — building systems that can learn, reason, and improve excites me. Alongside AI, I’ve also been exploring the decentralized world of **Web3 and Blockchain**, intrigued by the possibilities of smart contracts and trustless systems.
+- 🌐 Recently, I've been venturing into **CloudOps and DevOps**, learning about containerization, deployment pipelines, and cloud-native tools; from CI/CD pipelines to container orchestration with Docker and Kubernetes.
+- 👩‍💻 I love solving **DSA problems** and participating in **competitive programming** contests.
+- 🧠 I’m always eager to learn new tools, technologies, and collaborate on **Open Source** projects.
 
 - 📫 Reach me at: **indupriya.bejugam@gmail.com**
 - 📂 All my projects: [github.com/Ip-12345](https://github.com/Ip-12345)
